@@ -1,0 +1,24 @@
+.biologyToday {
+ border: black 7px solid;
+border-radius: 10px;
+margin: 5px 0px;
+padding: 0px 10px;
+display: inherit;
+width: 25%;
+flex-direction: inherit;
+align-items: inherit;
+}
+
+.articleHeader{
+margin: 15px 0px;
+display: flex;
+background: #272c35;
+padding: 0px 10px;
+font-size: calc(5px + 2vmin);
+color: white;
+text-shadow: 0 0 black;
+}
+
+.articleParagraph {
+margin: 3% 0%;
+}
